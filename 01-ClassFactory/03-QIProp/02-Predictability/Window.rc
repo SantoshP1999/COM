@@ -1,0 +1,3 @@
+#include "Window.h"
+
+SBP_ICON ICON ganesh.ico
