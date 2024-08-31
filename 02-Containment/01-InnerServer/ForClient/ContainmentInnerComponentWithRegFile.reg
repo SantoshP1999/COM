@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{3D6BF9AC-8AB0-4E5E-96C4-D1251FCC5E17}]
+@="ContainmentInnerComponentWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{3D6BF9AC-8AB0-4E5E-96C4-D1251FCC5E17}\InprocServer32]
+@="C:\\Windows\\System32\\ContainmentInnerComponentWithRegFile.dll"
